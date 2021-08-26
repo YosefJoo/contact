@@ -1,0 +1,65 @@
+body {
+    background: url('wave-1.png');
+    background-color: rgba(71, 67, 67, 0.363);
+}
+
+.contect.overlay {
+    padding: 50px 0;
+    color: rgb(255, 255, 255);
+}
+
+.contect h2 {
+    text-align: center;
+    color: rgb(255, 68, 0);
+    font-size: 35px;
+}
+
+.contect span {
+    text-align: center;
+    color: rgb(44, 44, 39);
+    font-size: 35px;
+}
+
+.contect p {
+    left: 20px;
+    color: rgb(70, 66, 60);
+    text-align: center;
+    font-size: medium;
+}
+
+.contect form {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.contect form input [type="text"] .contect form input [type="email"] {
+    width: 50%;
+}
+
+.contect form input [type="text"] {
+    margin-right: 5px;
+    padding-left: 10px;
+    width: 500px;
+}
+
+.contect form textarea {
+    margin-top: 20px;
+    width: 60%;
+    height: 40%;
+}
+
+#div1 button {
+    background-color: rgb(255, 69, 0);
+    border-radius: 20%;
+    color: white;
+    border: white;
+}
+
+#div2 img {
+    width: 20px;
+    border-radius: 55%;
+    height: 20px;
+    margin: left 10px;
+}
